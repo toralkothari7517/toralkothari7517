@@ -58,9 +58,17 @@ I am an Information Technology student motivated to solve core algorithmic probl
 
 ---
 
-## 📈 GitHub Activity
+## 📈 Stats & Activity
 
-<p align="center">
+### LeetCode
+<p align="left">
+  <a href="https://leetcode.com/toralkothari/">
+    <img src="https://leetcard.jacoblin.cool/toralkothari?theme=tokyonight&font=Syne&ext=activity" alt="Toral's LeetCode Stats" />
+  </a>
+</p>
+
+### GitHub
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Toral's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="Toral's Streak Stats" />
 </p>
