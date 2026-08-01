@@ -1,17 +1,16 @@
 # Hi there, I'm Toral Kothari 👋
 
-**Information Technology Engineering Student | Robotics & Core Software Logic**  
+**Information Technology Engineering Student**  
 📍 Pune, Maharashtra, India
 
 ---
 
 ## 🚀 About Me
 
-I am an Information Technology student motivated to solve core algorithmic problems and build robust engineering solutions. I specialize in low-level programming, data structures, and hardware integration.
+I am an Information Technology student motivated to solve core algorithmic problems and build robust engineering solutions.
 
 - 🎓 B.Tech in IT at **MKSSS Cummins College of Engineering for Women, Pune** (GPA: 8.8)
 - 🤖 Core Member & Social Media Head at **Team Aaveg Robotics**
-- 💡 Solving DSA problems (120+) and competing in national-level tech events
 - 📫 Reach out at: [toralkothari7517@gmail.com](mailto:toralkothari7517@gmail.com)
 
 ---
